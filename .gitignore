@@ -1,0 +1,13 @@
+.env
+__pycache__
+.idea
+/venv/
+*.sqlite
+venv/
+env/
+.idea/
+*.swp
+*.swo
+classification_results/
+.ipynb_checkpoints
+*.db
